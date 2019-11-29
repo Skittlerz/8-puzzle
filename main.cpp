@@ -1,6 +1,5 @@
 /*
 CS421 Assignment 2
-Amanda Braun 200390446
 
 This program solves the 8-Puzzle using the following search algorithms:
 Bounded Depth-First Search,
